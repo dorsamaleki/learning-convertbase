@@ -16,7 +16,9 @@ int main(){
 	
 	system ("color 0A");
 	
+	cout << "Enter number to convert: ";
 	cin >> num;
+	cout << "Enter base: ";
 	cin >> mabna;
 	
 	for (i=0; i<10; i++){
